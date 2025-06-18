@@ -5,6 +5,6 @@ client/ .env
 # Python
 
 server/venv/
-server/_pycache_/
+server/__pycache__/
 server/uploads/
 server/*pyc
